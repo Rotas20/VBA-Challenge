@@ -1,3 +1,3 @@
-# VBA-Challenge
+# VBA-StockHW
 
 Step 1
